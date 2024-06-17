@@ -66,6 +66,5 @@ kit_body = { "name": "Abcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdabcdab
 * requests
 * pytest
 
-## Автор
 
 Астахова Татьяна Александровная 19я когорта.
